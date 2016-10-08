@@ -1,6 +1,6 @@
 {
-  "name": "mongoose-api",
-  "description": "Mongoose API",
+  "name": "mongoose-restful-api",
+  "description": "Mongoose RESTful API",
   "version": "0.1",
   "contributors": [
     {

@@ -1,4 +1,4 @@
-# mongoose-api
+# mongoose-restful-api
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
