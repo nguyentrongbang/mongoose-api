@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-api",
+  "description": "Mongoose API",
+  "version": "0.1",
+  "contributors": [
+    {
+      "name": "Bang Nguyen",
+      "email": "nguyentrongbang9x@gmail.com",
+      "url": "http://baicadicungnamthang.net"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyentrongbang/mongoose-api.git"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "files": [
+    "lib/",
+    "LICENSE",
+    "HISTORY.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8"
+  }
+}
