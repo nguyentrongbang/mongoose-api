@@ -132,8 +132,6 @@ exports.parseQueryFromObject = function (query, object) {
       }
     }
   }
-
-  return query;
 };
 
 exports.getFields = function (object) {
