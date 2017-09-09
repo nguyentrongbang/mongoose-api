@@ -1,12 +1,11 @@
 {
   "name": "mongoose-restful-api",
   "description": "Mongoose RESTful API",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "contributors": [
     {
       "name": "Bang Nguyen",
-      "email": "nguyentrongbang9x@gmail.com",
-      "url": "http://baicadicungnamthang.net"
+      "email": "nguyentrongbang9x@gmail.com"
     }
   ],
   "license": "MIT",
