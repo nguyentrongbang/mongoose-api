@@ -4,7 +4,7 @@
  * @param input
  */
 exports.parseQuery = function (query, input) {
-  input = decodeURI(input);
+  input = decodeURIComponent(input);
   var object = this.parseObject(input);
   return this.parseQueryFromObject(query, object);
 };
